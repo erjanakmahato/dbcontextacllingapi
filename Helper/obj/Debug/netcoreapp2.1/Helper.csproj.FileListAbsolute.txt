@@ -1,0 +1,6 @@
+D:\Visual Studio\CallingApi\Helper\bin\Debug\netcoreapp2.1\Helper.deps.json
+D:\Visual Studio\CallingApi\Helper\bin\Debug\netcoreapp2.1\Helper.dll
+D:\Visual Studio\CallingApi\Helper\obj\Debug\netcoreapp2.1\Helper.csprojAssemblyReference.cache
+D:\Visual Studio\CallingApi\Helper\obj\Debug\netcoreapp2.1\Helper.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CallingApi\Helper\obj\Debug\netcoreapp2.1\Helper.AssemblyInfoInputs.cache
+D:\Visual Studio\CallingApi\Helper\obj\Debug\netcoreapp2.1\Helper.AssemblyInfo.cs
